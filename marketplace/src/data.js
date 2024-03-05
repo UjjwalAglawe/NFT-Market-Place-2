@@ -24,7 +24,7 @@ export const products = [
     id: 2,
     title: "Tulip",
     color: "Yellow",
-    price: 1,
+    price: 0.05,
     description: "Signifies perfect love",
     image: tulip
   },
@@ -32,7 +32,7 @@ export const products = [
     id: 3,
     title: "Lily",
     color: "White",
-    price: 1.5,
+    price: 0.5,
     description: "Symbolizes purity and virtue",
     image: lily
   },
@@ -48,7 +48,7 @@ export const products = [
     id: 5,
     title: "Daisy",
     color: "White",
-    price: 2,
+    price: 0.2,
     description: "Symbol of purity and innocence",
     image: logo
   },
@@ -64,7 +64,7 @@ export const products = [
     id: 7,
     title: "Carnation",
     color: "Pink",
-    price: 1.3,
+    price: 0.3,
     description: "Symbolizes love and fascination",
     image: carnation
   },
@@ -72,7 +72,7 @@ export const products = [
     id: 8,
     title: "Hydrangea",
     color: "Blue",
-    price: 1.99,
+    price: 0.99,
     description: "Represents gratitude and heartfelt emotions",
     image: hydrangea
   },
@@ -80,7 +80,7 @@ export const products = [
     id: 9,
     title: "Peony",
     color: "Pink",
-    price: 1.99,
+    price: 0.99,
     description: "Symbolizes romance and prosperity",
     image: peony
   },
@@ -88,7 +88,7 @@ export const products = [
     id: 10,
     title: "Chrysanthemum",
     color: "Various",
-    price: 1.45,
+    price: 0.45,
     description: "Represents longevity and joy",
     image: chry
   },
